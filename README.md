@@ -12,6 +12,7 @@ let Thanh = {
   architecture: ['microservices', 'MVC']
 }
 ```
+Check my blog in here: [https://hthanh12.github.io/blog/](https://hthanh12.github.io/blog/)
 
 Have a nice day ^^ !
 
