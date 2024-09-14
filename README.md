@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hthanh12" alt="hthanh12" /></a> </p> -->
 
-- 🔭 I’m currently working on **Paradox**
+- 🔭 I’m currently working on [**Paradox**](https://github.com/ParadoxAi)
 
 - 🌱 I’m currently learning **NestJS**
 
